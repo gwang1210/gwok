@@ -4,7 +4,7 @@ body {
  background-repeat:no-repeat;
  }
 #header{
- margin:150px auto 215px auto;
+ margin:150px auto 210px auto;
 }
 #bigheader{
   color: #f1d83f;
@@ -44,5 +44,5 @@ body {
  background-color: #340707;
  font-color: #dab844
  margin-bottom: 30px;
- margin-top:10px;
+ margin-top:0px;
 }
