@@ -5,4 +5,7 @@ body {
  }
  #header {
   margin: 220px auto 250px auto;
+  color: #dab844;
+  font-size: 100px
+  font-family: "Metamorphous"
  }
