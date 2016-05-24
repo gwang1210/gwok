@@ -37,4 +37,7 @@ body {
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.00);
   -webkit-font-smoothing: antialiased;
 }
-
+.navbar-header{
+    width:200px;
+    margin-left:8.3333% !important;
+}
