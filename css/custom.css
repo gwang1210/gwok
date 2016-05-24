@@ -3,15 +3,10 @@ body {
  background-size: auto 590px;
  background-repeat:no-repeat;
  }
- #mainheader-lg{
+h1{
   margin: 95px auto 110px auto;
   color: #f1d83f;
   font-size: 280%;
   font-family: "Metamorphous";
  }
-  #mainheader-sm{
-  margin: 95px auto 110px auto;
-  color: #f1d83f;
-  font-size: 280%;
-  font-family: "Metamorphous";
- }
+
