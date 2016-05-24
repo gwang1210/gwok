@@ -48,3 +48,6 @@ body {
  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
  font-size: 120%
 }
+a:link, a:visited, a:hover, a:active {
+ text-decoration: none;
+}
