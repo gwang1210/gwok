@@ -4,7 +4,7 @@ body {
  background-repeat:no-repeat;
  }
 #header{
- margin:150px auto 210px auto;
+ margin:150px auto 215px auto;
 }
 #bigheader{
   color: #f1d83f;
@@ -42,7 +42,7 @@ body {
 }
 .opensign{
  background-color: #340707;
- margin-bottom: 50px;
- margin-top:0px;
+ padding-bottom: 30px;
+ padding-top: 5px;
  color: #dab844;
 }
