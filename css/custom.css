@@ -16,3 +16,7 @@ body {
   font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
   font-size: 170%
  }
+ #singlebutton{
+  color: #bad844;
+  margin-top: 50px;
+ }
