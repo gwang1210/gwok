@@ -19,6 +19,7 @@ body {
  #singlebutton{
   color: #bad844;
   margin-top: 50px;
+  margin-bottom: 10px;
  }
 .btn-custom {
   background-color: hsl(40, 100%, 62%) !important;
