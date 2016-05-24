@@ -3,6 +3,9 @@ body {
  background-size: auto 590px;
  background-repeat:no-repeat;
  }
+#header{
+ margin:200px auto 250px auto;
+}
 #bigheader{
   color: #f1d83f;
   font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
