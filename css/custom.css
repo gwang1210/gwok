@@ -1,8 +1,8 @@
-body {
- background-image: url('../headerphoto.jpg');
- background-size: auto 590px;
- background-repeat:no-repeat;
- }
+/*body {*/
+/* background-image: url('../headerphoto.jpg');*/
+/* background-size: auto 590px;*/
+/* background-repeat:no-repeat;*/
+/* }*/
 #header{
  margin:150px auto 210px auto;
 }
