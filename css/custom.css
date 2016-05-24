@@ -57,3 +57,7 @@ h3 a:link,h3 a:visited,h3 a:hover,h3 a:active {
 h3{
  font-size: 200%;
 }
+.navcustom{
+ background-color: #340707;
+ color: #dab844;
+}
