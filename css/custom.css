@@ -42,11 +42,11 @@ body {
 }
 .opensign{
  background-color: #340707;
- padding-bottom: 30px;
- padding-top: 15px;
+ padding-bottom: 40px;
+ padding-top: 20px;
  color: #dab844;
  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
- font-size: 300%
+ font-size: 220%;
 }
 a:link, a:visited, a:hover, a:active {
  text-decoration: none;
