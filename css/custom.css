@@ -3,7 +3,7 @@ body {
  background-size: auto 590px;
  background-repeat:no-repeat;
  }
- #header {
+ #header, h1 {
   margin: 220px auto 250px auto;
   color: #dab844;
   font-size: 6em;
