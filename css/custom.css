@@ -3,4 +3,7 @@ body {
  background-size: auto 590px;
  background-repeat:no-repeat;
  }
+ #bigheader {
+  font-size: 280px;
+ }
 
