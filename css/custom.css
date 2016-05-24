@@ -3,13 +3,9 @@ body {
  background-size: auto 590px;
  background-repeat:no-repeat;
  }
-#headerlg, h1{
+#header, h1{
   margin: 95px auto 110px auto;
   font-size: 280%;
- }
- #headersm, h1{
-  margin: 95px auto 110px auto;
-  font-size: 200%;
  }
  h1, h2{
   color: #f1d83f;
