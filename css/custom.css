@@ -3,7 +3,10 @@ body {
  background-size: auto 590px;
  background-repeat:no-repeat;
  }
- #bigheader {
-  font-size: 280px;
+#bigheader{
+  margin: 95px auto 110px auto;
+  color: #f1d83f;
+  font-family: "Metamorphous";
+  font-size: 80%
  }
 
