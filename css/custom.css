@@ -3,11 +3,11 @@ body {
  background-size: auto 590px;
  background-repeat:no-repeat;
  }
-#header, h1, h6{
+#header, h1{
   margin: 95px auto 110px auto;
   font-size: 280%;
  }
- h1, h6{
+ h1{
   color: #f1d83f;
   font-family: "Metamorphous";
  }
