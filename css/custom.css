@@ -60,3 +60,6 @@ h3 a:link,h3 a:visited,h3 a:hover,h3 a:active {
 h3{
  font-size: 60%;
 }
+.content{
+ background-color: #ffffff;
+}
