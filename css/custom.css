@@ -1,6 +1,6 @@
 body {
  background-image: url('../headerphoto.jpg');
- background-size: auto 750px;
+ background-size: contain;
  background-repeat:no-repeat;
  overflow: auto;
  }
