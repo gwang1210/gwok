@@ -1,8 +1,9 @@
 body {
  background-image: url('../headerphoto.jpg');
- background-size: contain;
+ background-size: auto 750px;
  background-repeat:no-repeat;
- overflow: auto;
+ background-position:center;
+ 
  }
 #logo{
  max-width:100%;
