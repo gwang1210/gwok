@@ -159,7 +159,7 @@
     "@navbar-default-brand-color": "@navbar-default-link-color",
     "@navbar-default-brand-hover-color": "darken(@navbar-default-brand-color, 10%)",
     "@navbar-default-brand-hover-bg": "transparent",
-    "@navbar-default-toggle-hover-bg": "#f1d83f ",
+    "@navbar-default-toggle-hover-bg": "#dab844 ",
     "@navbar-default-toggle-icon-bar-bg": "#340707",
     "@navbar-default-toggle-border-color": "#340707",
     "@navbar-inverse-color": "lighten(@gray-light, 15%)",
