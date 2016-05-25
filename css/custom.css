@@ -3,19 +3,23 @@ body {
  background-size: auto 590px;
  background-repeat:no-repeat;
  }
+#logo{
+ max-width:100%;
+ margin-left: auto;
+}
 #header{
  margin:150px auto 210px auto;
 }
-#bigheader{
-  color: #f1d83f;
-  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
-  font-size: 300%;
- }
-#lilheader{
-  color: #f1d83f;
-  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
-  font-size: 170%;
- }
+/*#bigheader{*/
+/*  color: #f1d83f;*/
+/*  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
+/*  font-size: 300%;*/
+/* }*/
+/*#lilheader{*/
+/*  color: #f1d83f;*/
+/*  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
+/*  font-size: 170%;*/
+/* }*/
  #singlebutton{
   color: #bad844;
   margin-top: 50px;
@@ -56,8 +60,4 @@ h3 a:link,h3 a:visited,h3 a:hover,h3 a:active {
 }
 h3{
  font-size: 60%;
-}
-.navcustom{
- background-color: #340707;
- color: #dab844;
 }
