@@ -44,10 +44,10 @@ body {
     margin-left:8.3333% !important;
 }
 .opensign{
- background-color: #340707;
+ background-color: #f1d83f ;
  padding-bottom: 20px;
  padding-top: 10px;
- color: #dab844;
+ color: #340707;
  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
  font-size: 300%;
 }
@@ -55,7 +55,7 @@ a:link, a:visited, a:hover, a:active {
  text-decoration: none;
 }
 h3 a:link,h3 a:visited,h3 a:hover,h3 a:active {
- color: #dab844;
+ color: #340707;
 }
 h3{
  font-size: 60%;
